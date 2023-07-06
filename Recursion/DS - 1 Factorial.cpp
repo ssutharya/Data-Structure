@@ -1,4 +1,4 @@
-/*Write a recursive implementation of the factorial function. Recall that n! = 1 × 2 × ... × n, 
+/*Write a recursive implementation of the factorial function. Recall that n! = 1 Ã— 2 Ã— ... Ã— n, 
 with the special case that 0! = 1.*/
 
 #include <iostream>
